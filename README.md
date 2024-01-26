@@ -1,17 +1,19 @@
-### Hi there 👋
-### I'm a future data scientist :)
+# Hello, beautiful World! 👋
 
-<!--
-**1Dh2Be/1Dh2Be** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 
+I am an 18-year-old data science enthusiast, currently crafting my skills at BeCode Brussels. I thrive on taking calculated risks and challenging conventional norms in the pursuit of innovative solutions, for myself and others. My ambition is to excel in the field of data science as a rather young person. I firmly believe that age is not a measure of maturity or professionalism, but rather, it is our life experiences that shape us. I am eager to bring this perspective to my work and grow through the experiences I gain.
 
-Here are some ideas to get you started:
+## Personal trait  
+- Very bubbly 😄
+- Communication 🗣️
+- Productivness 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Tools
+- programming language: Python 
+- Libraries: Pandas, NumPy, Matplotlib
+- Distribution: Anaconda
+- Version Control: Git
+- Command Line: Terminal 
+
+## Last Updated 
+- January 26, 2024
