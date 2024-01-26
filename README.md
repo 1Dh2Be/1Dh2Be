@@ -6,14 +6,14 @@ I am an 18-year-old data science enthusiast, currently crafting my skills at BeC
 ## Personal trait  
 - Very bubbly 😄
 - Communication 🗣️
-- Productivness 🚀
+- Productivity 🚀
 
 ## Languages & Tools
-- programming language: Python 
-- Libraries: Pandas, NumPy, Matplotlib
-- Distribution: Anaconda
-- Version Control: Git
+- programming language: Python 🐍
+- Libraries: Pandas 🐼, NumPy 🔢, Matplotlib 📊
+- Distribution: Anaconda 🔧
+- Version Control: Git 🔀
 - Command Line: Terminal 
 
 ## Last Updated 
-- January 26, 2024
+- January 26, 2024 📅
