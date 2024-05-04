@@ -10,10 +10,10 @@ I am an 18-year-old data science enthusiast, currently crafting my skills at BeC
 
 ## Languages & Tools
 - programming language: Python 🐍
-- Libraries: Pandas 🐼, NumPy 🔢, Matplotlib 📊
+- Libraries: Pandas 🐼, NumPy 🔢, Matplotlib 📊, scikit-learn 🤖
 - Distribution: Anaconda 🔧
 - Version Control: Git 🔀
 - Command Line: Terminal 
 
 ## Last Updated 
-- January 26, 2024 📅
+- May 4, 2024 📅
